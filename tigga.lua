@@ -393,4 +393,4 @@ end)
 ---------------------------------------------------------
 -- 7. EXTERNE SCRIPTS LOADERS
 ---------------------------------------------------------
--- loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/edb1ed9325cf30ab8516aaa95f1e024a.lua"))()
+--- loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/edb1ed9325cf30ab8516aaa95f1e024a.lua"))()
